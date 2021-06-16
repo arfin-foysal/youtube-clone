@@ -1,9 +1,9 @@
 import React from 'react'
 import './App.css';
-import Header from './Header'
-import Sidebar from './Sidebar';
-import RecoVideo from './RecoVideo';
-import Search from './Search';
+import Header from'./Components/Header'
+import Sidebar from './Components/Sidebar';
+import RecoVideo from './Components/RecoVideo';
+import Search from './Components/Search';
 import {BrowserRouter as Router,Switch,Route} from 'react-router-dom'
 function App() {
   return (

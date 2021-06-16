@@ -17,7 +17,7 @@ export default function Header() {
             <div className="header_left">
              <MenuIcon/>
              <Link to="/">
-             <img className="header_logo" src="https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png" alt="Youtube"/>
+             <img className="header_logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1280px-YouTube_Logo_2017.svg.png" alt="Youtube"/>
              </Link>
              
             

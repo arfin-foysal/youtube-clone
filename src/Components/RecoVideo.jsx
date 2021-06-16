@@ -114,6 +114,96 @@ export default function RecoVideo() {
             image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
             
             />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
+            <Video
+            tittle="Neon Clothes Effect In your Video//Mr.J2V"
+            view="1.1M Views"
+            timestamp="1 day ago"
+            channelImage="https://arfinfoysal.com/vofelaq/2020/07/arfin-foysal-logo.png"
+            channel="Arfin Foysal"
+            image="https://i.ytimg.com/vi/eOm2q4WLnwM/maxresdefault.jpg"
+            
+            />
             </div>
             
         </div>

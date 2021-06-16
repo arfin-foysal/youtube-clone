@@ -9,9 +9,9 @@
     background-color: white;
 }
 .header_logo{
-    height: 30px;
+    height: 20px;
     object-fit:contain;
-    width: 90px;
+    width: 120px;
 }
 .header_middle{
     display: flex;
